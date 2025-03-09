@@ -1,2 +1,2 @@
 # Co-ordinate-Geometry
-Under this repo, you will find the functions that can perform the co-ordinate geometry operations. 
+This repository is about the calculator that can perform co-ordinate geometry operations ranging from Single Point Operations to various shapes.
